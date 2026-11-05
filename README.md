@@ -6,7 +6,7 @@ Bookbinding Studio is a desktop app for people who make books by hand. Describe 
 
 It's a single Java file with no dependencies.
 
-![Bookbinding Studio preview of a Coptic-bound notebook](screenshots/preview.png)
+![Bookbinding Studio preview of a Coptic-bound notebook](preview.png)
 
 ---
 
@@ -47,7 +47,7 @@ The finished book drawn three ways: the front cover, the spine and the book lyin
 ### Signatures
 A view looking down on the head of the book, showing how the sheets nest into signatures, with page ranges. Below it is a **page-imposition table** saying which page numbers go on which side of every sheet, along with the correct duplex setting ("flip on the short edge"). This is what you need if you're printing your own text block.
 
-![Signatures and imposition table](screenshots/signatures.png)
+![Signatures and imposition table](signatures.png)
 
 ### Template
 A punching guide drawn at **true scale**, ready to print:
@@ -59,7 +59,7 @@ A punching guide drawn at **true scale**, ready to print:
 
 Every template carries a **50 mm calibration bar**. Measure it before you punch. If it isn't exactly 50 mm, reprint at 100% / Actual size. Templates taller than the printable page are split across several pages with a 10 mm overlap.
 
-![Punching template](screenshots/template.png)
+![Punching template](template.png)
 
 ### Sewing
 The heart of the app. The spine is drawn face-on with every signature and sewing station, and the thread path builds up one step at a time with a plain-English instruction for each step:
@@ -72,11 +72,11 @@ The heart of the app. The spine is drawn face-on with every signature and sewing
 - **Show whole path** draws the complete sewing at once.
 - A running total shows how much thread you've used so far.
 
-![Coptic sewing diagram](screenshots/sewing.png)
+![Coptic sewing diagram](sewing.png)
 
 Stab binding has its own view, showing the front and back of the book side by side, so you can follow the thread as it passes through the block and wraps the spine.
 
-![Stab binding sewing diagram](screenshots/stab-sewing.png)
+![Stab binding sewing diagram](stab-sewing.png)
 
 ### Cover & Boards
 Cutting diagrams with dimensions for the binding you've chosen:
@@ -90,7 +90,7 @@ Cutting diagrams with dimensions for the binding you've chosen:
 
 A cutting list underneath gives every piece and how many to cut.
 
-![Case binding cutting diagram](screenshots/cover.png)
+![Case binding cutting diagram](cover.png)
 
 ### Materials
 A bench list you can work from:
@@ -167,3 +167,4 @@ Thread lengths, spine thickness and cover sizes are **bench estimates**. Paper c
 ## Author
 
 **Mario Gianota**
+Copyright 2026. All Rights Reserved.
