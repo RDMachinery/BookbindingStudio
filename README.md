@@ -1,5 +1,7 @@
 # Bookbinding Studio
 
+![Banner](banner.jpeg)
+
 **Design a hand-bound book, then take everything you need to the bench.**
 
 Bookbinding Studio is a desktop app for people who make books by hand. Describe the book you want: its paper, size, number of signatures and binding style. The app then gives you a true-scale punching template, an animated step-by-step sewing diagram, the length of thread to cut, the sizes to cut the boards and cover to, and a page-order map for printing your own text block.
