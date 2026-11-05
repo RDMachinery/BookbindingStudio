@@ -224,7 +224,7 @@ The heart of the app. The spine is drawn face-on with every signature and sewing
 
 Stab binding has its own view, showing the front and back of the book side by side, so you can follow the thread as it passes through the block and wraps the spine.
 
-![Stab binding sewing diagram](tab-sewing.png)
+![Stab binding sewing diagram](stab-sewing.png)
 
 ### Cover & Boards
 Cutting diagrams with dimensions for the binding you've chosen:
